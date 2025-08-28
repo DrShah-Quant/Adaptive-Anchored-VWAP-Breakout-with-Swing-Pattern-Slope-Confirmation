@@ -1,0 +1,1 @@
+# Adaptive-Anchored-VWAP-Breakout-with-Swing-Pattern-Slope-Confirmation
